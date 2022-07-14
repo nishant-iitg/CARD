@@ -1,0 +1,29 @@
+Sentence=Nondisp fx of anterior wall of right acetabulum , init
+Abbr:	fx	fx	fracture	C0016658	inpo
+
+Sentence=Other control gast hem
+
+Sentence=Post catarac frag / aspir
+
+Sentence=Ins noninfl penis prosth
+
+Sentence=Aspirat curet - post deliv fetal mal 1000 - 1249g
+
+Sentence=Ac stomach ulc NOS - obstr
+Abbr:	NOS	nos	not otherwise specified	C1518425	qlco
+
+Sentence=Restrict R Int Carotid w Extralum Dev , Perc Endo
+Abbr:	R	r	right	C0205090	spco
+
+Sentence=Pasngr in pk - up / van injured in clsn w statnry object in traf
+
+Sentence=Bipol I curr dep w / o psy
+Abbr:	I	i	in	NULL	null
+Abbr:	o	o	old	C0580836	tmco
+
+Sentence=Occup of 3 - whl mv inj pk - up truck , pk - up / van nontraf , sqla
+Abbr:	mv	mv	multivitamin	C0301532	orch,phsu,vita
+Abbr:	inj	inj	injection	C0021485	topp
+
+Sentence=Medical and Surgical @ Upper Arteries @ Restriction @ Internal Corotid Artery , Right @ Percutaneous Endoscopic @ Extraluminal Device @ No Qualifier 
+
